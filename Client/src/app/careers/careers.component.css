@@ -1,0 +1,38 @@
+.btn-primary {
+    color: #fff;
+    background-color: #394ab7;
+    border-color: #333;
+}
+
+.content{
+    padding-left: 30%;
+    padding-right: 25%
+    
+}
+.lead {
+    padding-left: 15%;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+.row{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.btn{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.col-md-8{
+    margin-top: 6px;
+}
+.jumbotron{
+    
+    margin-left: 10%;
+    margin-right: 10%;
+}
